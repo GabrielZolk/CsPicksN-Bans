@@ -14,4 +14,4 @@
 
 <br>
 
-🔗 [Link]()
+🔗 [Link](https://gabrielzolk.github.io/CsPicksN-Bans/)
